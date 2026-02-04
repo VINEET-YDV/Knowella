@@ -13,7 +13,7 @@ import os
 # ---------------------------------------------------------
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]  # Store inside Streamlit Cloud Secrets
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL_NAME = "mixtral-8x7b-32768"  # or llama3-70b if preferred
+MODEL_NAME = "llama-3.1-8b-instant"  # or llama3-70b if preferred
 
 # ---------------------------------------------------------
 # 2. Embedding Model
