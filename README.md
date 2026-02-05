@@ -38,5 +38,5 @@ Runs locally or fully in **Streamlit Cloud**, since generation uses the Groq API
 | UI | Streamlit |
 | Embeddings | SentenceTransformers (all-MiniLM-L6-v2) |
 | Vector DB | FAISS |
-| LLM | Groq API (Mixtral) |
+| LLM | Groq API (llama) |
 | File Parsing | PyPDF |
